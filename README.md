@@ -82,14 +82,13 @@ If your CSV has different columns, adjust preprocess_data() in src/preprocessing
 
 # For GPU-accelerated XGBoost, install with:
 
-bash
-Copy code
+
 pip install xgboost[scikit-learn]
 📄 Requirements
+
 Key packages:
 
-nginx
-Copy code
+
 pandas
 scikit-learn
 xgboost
@@ -98,8 +97,7 @@ joblib
 
 # Install all via:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 ⚖️ License
 MIT License – free to use, modify, and distribute.
